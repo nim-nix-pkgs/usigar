@@ -9,7 +9,7 @@
   
   inputs.src-usigar-master.flake = false;
   inputs.src-usigar-master.owner = "juancarlospaco";
-  inputs.src-usigar-master.ref   = "refs/heads/master";
+  inputs.src-usigar-master.ref   = "master";
   inputs.src-usigar-master.repo  = "nim-usigar";
   inputs.src-usigar-master.type  = "github";
   
